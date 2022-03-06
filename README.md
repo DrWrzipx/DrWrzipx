@@ -23,5 +23,5 @@
 
 <a href="https://www.credly.com/badges/4be5bd94-1a75-4230-9dc2-8783011637ac/public_url" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/598f6ac6-2dbd-4394-8ae4-943b2f4c43ea/AWS-Developer-Associate-2020.png" alt="AWS" height="138" width="138" /></a>
 
-<a href="https://www.credly.com/badges/4be5bd94-1a75-4230-9dc2-8783011637ac/public_url" target="blank"><img src="https://images.credly.com/size/340x340/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png" alt="AWS" height="138" width="138"/>
+<a href="https://www.credly.com/badges/1229f0ad-7b6f-4161-993f-f6bb5b1d23d7/public_url" target="blank"><img src="https://images.credly.com/size/340x340/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png" alt="AWS" height="138" width="138"/>
 </a>
