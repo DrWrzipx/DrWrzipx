@@ -1,7 +1,7 @@
 
 <h2> Hey there! I'm Matic.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 🦊 &nbsp;About Me </h3>
 
 - 🍨 &nbsp; In the middle of difficulty lies opportunity...
 
@@ -20,6 +20,7 @@
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+- 🖍 &nbsp;
   ![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
