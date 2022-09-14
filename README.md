@@ -39,10 +39,4 @@
 - 🚀 &nbsp;
   ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Linode](https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white)
-
 <br/>
-
-<a href="#">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DrWrzipx&theme=buefy&show_icons=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrWrzipx&theme=buefy&layout=compact" />
-</a>
