@@ -40,3 +40,4 @@
   ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Linode](https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white)
 <br/>
+<a href="https://wakatime.com/@016c4cf1-a1ca-43a4-bb7c-9b78a65e6f09"><img src="https://wakatime.com/badge/user/016c4cf1-a1ca-43a4-bb7c-9b78a65e6f09.svg" alt="Total time coded since Jun 10 2021" /></a>
